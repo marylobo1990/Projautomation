@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-19T17:52:28 IST" name="Suite" finished-at="2023-07-19T17:54:34 IST" duration-ms="125326">
+    <groups>
+    </groups>
+    <test started-at="2023-07-19T17:52:28 IST" name="Test" finished-at="2023-07-19T17:54:34 IST" duration-ms="125326">
+      <class name="testEtoile.Etoilelogintest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testEtoile.Etoilelogintest@6f01b95f]" started-at="2023-07-19T17:53:04 IST" name="setup" finished-at="2023-07-19T17:53:32 IST" duration-ms="27828" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testsignin()[pri:0, instance:testEtoile.Etoilelogintest@6f01b95f]" started-at="2023-07-19T17:53:32 IST" name="testsignin" finished-at="2023-07-19T17:53:43 IST" duration-ms="10600" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testsignin -->
+      </class> <!-- testEtoile.Etoilelogintest -->
+      <class name="testEtoile.Etoileacctest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testEtoile.Etoileacctest@6c4906d3]" started-at="2023-07-19T17:52:28 IST" name="setup" finished-at="2023-07-19T17:52:47 IST" duration-ms="18301" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testcreateaccnt()[pri:0, instance:testEtoile.Etoileacctest@6c4906d3]" started-at="2023-07-19T17:52:47 IST" name="testcreateaccnt" finished-at="2023-07-19T17:53:04 IST" duration-ms="17597" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcreateaccnt -->
+      </class> <!-- testEtoile.Etoileacctest -->
+      <class name="testEtoile.Etoileitemtest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testEtoile.Etoileitemtest@4007f65e]" started-at="2023-07-19T17:53:43 IST" name="setup" finished-at="2023-07-19T17:54:11 IST" duration-ms="28140" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testshop()[pri:0, instance:testEtoile.Etoileitemtest@4007f65e]" started-at="2023-07-19T17:54:11 IST" name="testshop" finished-at="2023-07-19T17:54:34 IST" duration-ms="22764" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testshop -->
+      </class> <!-- testEtoile.Etoileitemtest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
